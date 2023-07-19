@@ -17,4 +17,4 @@ The dataset comprises three files:
 - `df_youtube.csv.zip`: the archive with all tweets sharing the videos listed in the above-mentioned files.
 
 ## Pipeline Description
-![alt text](https://github.com/pacificocatapano/[Sentiment-Analysis-on-Youtube-Video-through-Twitter]/blob/main/pipeline.jpg?raw=true)
+![alt text](https://github.com/pacificocatapano/[Sentiment-Analysis-on-Youtube-Video-through-Twitter]/blob/main/Pipeline.jpg?raw=true)
