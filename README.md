@@ -16,5 +16,14 @@ The dataset comprises three files:
 - `test.csv`: it shares the same structure as `train.csv` without the last column.
 - `df_youtube.csv.zip`: the archive with all tweets sharing the videos listed in the above-mentioned files.
 
-## Pipeline Description
+## 3. Pipeline Description
 ![ ](Pipeline.jpg)
+
+## 4. Pipeline Description
+The files are organized as follows:
+1. Join between train/test table and df_youtube table.
+2. Feature Extraction Through TweetNLP
+3. Feature Extraction Through John Snow LABS Cyberbullying Model
+4. Join between Feature extracted
+5. Train ML model
+6. Train Transformer Model to achieve the goal
