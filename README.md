@@ -19,7 +19,7 @@ The dataset comprises three files:
 ## 3. Pipeline Description
 ![ ](Pipeline.jpg)
 
-## 4. Pipeline Description
+## 4. Files Description
 The files are organized as follows:
 1. Join between train/test table and df_youtube table.
 2. Feature Extraction Through TweetNLP
